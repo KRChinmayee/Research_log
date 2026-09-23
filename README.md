@@ -1,5 +1,7 @@
 # Research_log
 ------------------------------------
+Use this template every week to maintain a record of all the work being done
+
 # Weekly Research Summary — Week XX, YYYY
 
 **Dates:** DD Month – DD Month YYYY
